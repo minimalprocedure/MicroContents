@@ -1,0 +1,11 @@
+<?php
+
+$TEMPLATE=
+<<<TEMPLATE
+
+<div id="bottomRightBlock">
+    {$VARS["RIGHT_BLOCK"]}
+</div>
+
+TEMPLATE;
+?>

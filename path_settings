@@ -1,0 +1,15 @@
+++settings_path++
+++settings/++
+
+++css_path_template++
+++style/template/++
+
+++css_path_screen_default++
+++style/screen_default/++
+
+++html_path_template++
+++template/++
+
+++locale_path++
+++locale/++
+

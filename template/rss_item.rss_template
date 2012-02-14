@@ -1,0 +1,15 @@
+<?php
+
+$TEMPLATE=
+<<<TEMPLATE
+
+<item>
+	<title>{$VARS["item_title"]}</title>
+	<description>{$VARS["item_description"]}</description>
+	<link>{$VARS["item_link"]}</link>
+	<pubDate>{$VARS["item_pubDate"]}</pubDate>
+	<guid>{$VARS["item_guid"]}</guid>
+</item>
+
+TEMPLATE;
+?>

@@ -1,0 +1,36 @@
+//------------------------------------------------------------------------------
+	default constant:
+	
+	%%YEAR%%
+	%%MONTH%%
+	%%DAY%%	
+	%%HOURS%%
+	%%MINUTES%%
+	%%SECONDS%%
+	
+	%%MAIN_PROCESSOR_FILE%%
+    %%SITE_VERSION%%
+    %%LOCALE_LANG_PATH%%
+    %%LOCALE_LANG%%
+    %%CORPORATE_TITLE%%
+    %%CORPORATE_NAME%%
+    %%CORPORATE_SLOGAN%%
+	%%SETTINGS_PATH%%
+	%%CSS_PATH_TEMPLATE%%
+	%%CSS_PATH_SCREEN_DEFAULT%%
+	%%HTML_PATH_TEMPLATE%%
+	%%LOCALE_PATH%%
+	
+//------------------------------------------------------------------------------
+
+++token++
+++
+%%APPLICATION%%;
+%%NOTE%%
+++
+
+++subst++
+++
+template site multilanguage;
+release notes
+++

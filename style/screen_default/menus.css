@@ -1,0 +1,23 @@
+
+/* menu principale*/
+div#BlockMenuMain{
+	background-color: #EBE7E0;
+	/*width: 760px;*/
+	height: 18px;
+	margin: 8px 0 0 0;
+	padding-top: 2px;
+	padding-bottom: 2px;
+    text-align: left;
+}
+ul#MenuMain{
+	display: inline;
+	padding-left: 0px;
+	margin-left: 0px;
+}
+ul#MenuMain li{
+    font-family: Verdana, "Sans Serif";
+	display: inline;
+	color: #28231B;
+	font-size: 11px;
+	padding-left: 6px;
+}
