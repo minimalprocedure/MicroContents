@@ -1,8 +1,0 @@
-++corporate_title++
-++corporate_title++
-
-++corporate_name++
-++corporate_name++
-
-++corporate_slogan++
-++corporate_slogan++

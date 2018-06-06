@@ -1,4 +1,0 @@
-scuro			#28231B
-medio			#504735
-chiaro			#EBE7E0
-molto chiaro	#F9F8F6
